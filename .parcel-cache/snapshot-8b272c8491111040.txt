@@ -86,7 +86,7 @@
 108C:\Users\boulanger\Documents\GitHub\r312-tp1-2-plot-par-parceljs-oliventhan-thamilselvan\node_modules\dotenv133698214075494062 1
 135C:\Users\boulanger\Documents\GitHub\r312-tp1-2-plot-par-parceljs-oliventhan-thamilselvan\node_modules\htmlnano\lib\modules\minifyJs.cjs133698214081049687 0
 157C:\Users\boulanger\Documents\GitHub\r312-tp1-2-plot-par-parceljs-oliventhan-thamilselvan\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133698214089312427 0
-101C:\Users\boulanger\Documents\GitHub\r312-tp1-2-plot-par-parceljs-oliventhan-thamilselvan\package.json133698214175278310 0
+101C:\Users\boulanger\Documents\GitHub\r312-tp1-2-plot-par-parceljs-oliventhan-thamilselvan\package.json133698217867184295 0
 139C:\Users\boulanger\Documents\GitHub\r312-tp1-2-plot-par-parceljs-oliventhan-thamilselvan\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133698214082084515 0
 106C:\Users\boulanger\Documents\GitHub\r312-tp1-2-plot-par-parceljs-oliventhan-thamilselvan\node_modules\@swc133698214175236927 1
 141C:\Users\boulanger\Documents\GitHub\r312-tp1-2-plot-par-parceljs-oliventhan-thamilselvan\node_modules\csso\node_modules\mdn-data\CHANGELOG.md133698214088452712 0
